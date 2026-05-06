@@ -94,13 +94,6 @@ Key guarantees:
 - The analyzer provides structured template heuristics, not final visual judgment.
 - XML relationships (`.rels`) should be treated as authoritative linkage data.
 
-## Suggested GitHub Topics
-
-`pptx`, `powerpoint`, `openxml`, `document-analysis`, `template-analysis`,
-`presentation-template`, `design-system`, `slide-analysis`, `xml-parser`,
-`asset-extraction`, `automation`, `nodejs`, `presentation-engineering`,
-`content-pipeline`, `developer-tools`
-
 ## License
 
 Add your preferred open-source license (for example, MIT) before publishing.
